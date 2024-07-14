@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vistarda.github.io/sitemap.html.gz
+Sitemap: https://vistarda.github.io/app/sitemap.html.gz
+Sitemap: https://vistarda.github.io/assets/sitemap.html.gz
+Sitemap: https://vistarda.github.io/css/sitemap.html.gz
+Sitemap: https://vistarda.github.io/includes/sitemap.html.gz
+Sitemap: https://vistarda.github.io/item/sitemap.html.gz
+Sitemap: https://vistarda.github.io/src/sitemap.html.gz
